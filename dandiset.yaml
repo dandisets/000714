@@ -101,6 +101,7 @@ contributor:
   - dcite:Visualization
   schemaKey: Person
 dateCreated: '2023-11-20T21:32:21.225581+00:00'
+datePublished: '2024-04-02T21:15:48.042377+00:00'
 description: Segmented and labeled NeuroPAL datasets from "Graphical-model framework
   for automated annotation of cell identities in dense cellular images" by Shivesh
   Chaudhary, et al.
@@ -114,6 +115,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000714/versions/draft/assets/
 name: Segmented and labeled NeuroPAL structural images
 protocol: []
+publishedBy:
+  endDate: '2024-04-02T21:15:48.042377+00:00'
+  id: urn:uuid:9973ed8a-a633-4825-9bac-0db737722ec2
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-04-02T21:15:48.042377+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:1200775c-ac7b-401a-a92e-7ff455373242
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Conditional Random Field Graphical Model for Annotation of C. elegans whole-brain
     images
