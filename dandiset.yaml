@@ -31,8 +31,8 @@ assetsSummary:
   - ProcessingModule
   - PlaneSegmentation
 citation: Sprague, Daniel; Chaudhary, Shivesh; Lee, Sol Ah; Li, Yueyi; Patel, Dhaval
-  S; Lu, Hang (2024) Segmented and labeled NeuroPAL structural images (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000714/draft
+  S; Lu, Hang (2024) Segmented and labeled NeuroPAL structural images (Version 0.240611.1954)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000714/0.240611.1954
 contributor:
 - affiliation: []
   email: daniel.y.sprague@gmail.com
@@ -105,14 +105,15 @@ datePublished: '2024-06-11T19:54:24.167389+00:00'
 description: Segmented and labeled NeuroPAL datasets from "Graphical-model framework
   for automated annotation of cell identities in dense cellular images" by Shivesh
   Chaudhary, et al.
+doi: 10.48324/dandi.000714/0.240611.1954
 ethicsApproval: []
-id: DANDI:000714/draft
+id: DANDI:000714/0.240611.1954
 identifier: DANDI:000714
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000714/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000714/0.240611.1954/assets.yaml
 name: Segmented and labeled NeuroPAL structural images
 protocol: []
 publishedBy:
@@ -138,6 +139,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000714/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000714/0.240611.1954
+version: 0.240611.1954
 wasGeneratedBy: []
