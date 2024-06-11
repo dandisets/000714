@@ -19,9 +19,9 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 427145536
-  numberOfFiles: 8
-  numberOfSubjects: 8
+  numberOfBytes: 478075700
+  numberOfFiles: 9
+  numberOfSubjects: 9
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
@@ -101,7 +101,7 @@ contributor:
   - dcite:Visualization
   schemaKey: Person
 dateCreated: '2023-11-20T21:32:21.225581+00:00'
-datePublished: '2024-04-02T21:15:48.042377+00:00'
+datePublished: '2024-06-11T19:54:24.167389+00:00'
 description: Segmented and labeled NeuroPAL datasets from "Graphical-model framework
   for automated annotation of cell identities in dense cellular images" by Shivesh
   Chaudhary, et al.
@@ -110,19 +110,19 @@ id: DANDI:000714/draft
 identifier: DANDI:000714
 keywords: []
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000714/versions/draft/assets/
 name: Segmented and labeled NeuroPAL structural images
 protocol: []
 publishedBy:
-  endDate: '2024-04-02T21:15:48.042377+00:00'
-  id: urn:uuid:9973ed8a-a633-4825-9bac-0db737722ec2
+  endDate: '2024-06-11T19:54:24.167389+00:00'
+  id: urn:uuid:633359ed-7cf6-46e8-ada9-1621060d51bf
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-04-02T21:15:48.042377+00:00'
+  startDate: '2024-06-11T19:54:24.167389+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:1200775c-ac7b-401a-a92e-7ff455373242
+  - id: urn:uuid:bfe421e0-76c0-4413-bd95-c26b283b2a79
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
