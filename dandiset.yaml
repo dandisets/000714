@@ -30,17 +30,10 @@ assetsSummary:
   variableMeasured:
   - ProcessingModule
   - PlaneSegmentation
-citation: Sprague, Daniel; Chaudhary, Shivesh; Lee, Sol Ah; Li, Yueyi; Patel, Dhaval
+citation: Chaudhary, Shivesh; Sprague, Daniel; Lee, Sol Ah; Li, Yueyi; Patel, Dhaval
   S; Lu, Hang (2024) Segmented and labeled NeuroPAL structural images (Version draft)
   [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000714/draft
 contributor:
-- affiliation: []
-  email: daniel.y.sprague@gmail.com
-  includeInCitation: true
-  name: Sprague, Daniel
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
 - affiliation:
   - name: School of Chemical & Biomolecular Engineering, Georgia Institute of Technology,
       Atlanta, United States
@@ -58,6 +51,12 @@ contributor:
   - dcite:Methodology
   - dcite:Validation
   - dcite:Software
+  schemaKey: Person
+- affiliation: []
+  email: daniel.y.sprague@gmail.com
+  includeInCitation: true
+  name: Sprague, Daniel
+  roleName: []
   schemaKey: Person
 - affiliation:
   - name: School of Chemical & Biomolecular Engineering, Georgia Institute of Technology,
@@ -101,7 +100,7 @@ contributor:
   - dcite:Visualization
   schemaKey: Person
 dateCreated: '2023-11-20T21:32:21.225581+00:00'
-datePublished: '2024-06-11T19:54:24.167389+00:00'
+datePublished: '2024-10-09T15:16:35.490890+00:00'
 description: Segmented and labeled NeuroPAL datasets from "Graphical-model framework
   for automated annotation of cell identities in dense cellular images" by Shivesh
   Chaudhary, et al.
@@ -116,13 +115,13 @@ manifestLocation:
 name: Segmented and labeled NeuroPAL structural images
 protocol: []
 publishedBy:
-  endDate: '2024-06-11T19:54:24.167389+00:00'
-  id: urn:uuid:633359ed-7cf6-46e8-ada9-1621060d51bf
+  endDate: '2024-10-09T15:16:35.490890+00:00'
+  id: urn:uuid:baf6a61b-6e86-469e-813e-4b764050af61
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-06-11T19:54:24.167389+00:00'
+  startDate: '2024-10-09T15:16:35.490890+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:bfe421e0-76c0-4413-bd95-c26b283b2a79
+  - id: urn:uuid:0e913e46-911a-4dd0-a769-6ce98f919572
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
